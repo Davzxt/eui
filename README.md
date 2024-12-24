@@ -1,4 +1,4 @@
-local textureId = "140155130942333"
+local textureId = "6403436082"
 
 function replaceTextures()
     for _, part in pairs(game.Workspace:GetDescendants()) do
